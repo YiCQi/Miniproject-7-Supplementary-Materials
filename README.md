@@ -1,6 +1,17 @@
 # Miniproject 7 Supplementary Materials
 This repository includes code, document, and supplementary figures/tables for miniproject: Investigating the Temperature Effect on the Stability of the VAMP–BoNT F Complex Using Molecular Dynamics Simulations.
 
+## Protein Infomation:
+| PDB_ID       | 3FIE                                                                                                                                                                  |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| UniProt_ID   | A7GBG3                                                                                                                                                                |
+| UniProt_Ac   | BXF_CLOBL                                                                                                                                                             |
+| Description  | Botulinum neurotoxin type F (BoNT/F) (Bontoxilysin-F) Cleaved into: Botulinum neurotoxin F light chain (LC) (EC 3.4.24.69); Botulinum neurotoxin F heavy chain (HC) | 
+| Host_protein | Vesicle-associated membrane protein 2                                                                                                                                 |
+| Notes        | Intracellular part of a TM protein                                                                                                                                    | 
+| Gene_names   | F bont boNT/F CLI_0851                                                                                                                                                |   
+| Organism     | Clostridium botulinum (strain Langeland / NCTC 10281 / Type F)                                                                                                        |   
+
 ## General Process:
 <img width="500" alt="1744479065518" src="https://github.com/user-attachments/assets/af548b7a-b9c2-451e-b6b6-f4eb3dd98dec" />
 
