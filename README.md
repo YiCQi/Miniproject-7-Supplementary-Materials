@@ -1,8 +1,8 @@
 # Miniproject 7 Supplementary Materials
 This repository includes code, document, and supplementary figures/tables for miniproject: Investigating the Temperature Effect on the Stability of the VAMP–BoNT F Complex Using Molecular Dynamics Simulations.
 
-General Process:
-<img width="349" alt="1744479065518" src="https://github.com/user-attachments/assets/af548b7a-b9c2-451e-b6b6-f4eb3dd98dec" />
+## General Process:
+<img width="500" alt="1744479065518" src="https://github.com/user-attachments/assets/af548b7a-b9c2-451e-b6b6-f4eb3dd98dec" />
 
 **Remove H2O**
 ```
@@ -157,7 +157,7 @@ dssp Stats
 /software/gromacs-2024.3/build/bin/gmx_mpi dssp -f 320K_50ns_noPBC.xtc -s 320K_50ns.tpr -num dssp_320K.xvg 
 ```
 
-Results:
+## Results:
 ![image](https://github.com/user-attachments/assets/5b333578-3546-4742-b620-02467c3bd183)
 ![image](https://github.com/user-attachments/assets/0de59508-16dd-4ba7-91c6-9f8511b0c8f7)
 ![image](https://github.com/user-attachments/assets/b33b8264-199a-4f5b-8fd0-eebb75326603)
